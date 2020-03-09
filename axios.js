@@ -10,7 +10,7 @@ const answerFilter = '!-.7zMlVR.MUL';
 const url = 'https://api.stackexchange.com/2.2/';
 const nottagged = fs.readFileSync('nottagged.txt', 'UTF-8');
 const tagged = fs.readFileSync('tagged.txt', 'UTF-8');
-var page = '0';
+var page = '2';
 var pagesize = '100';
 
 var testList = '';
@@ -18,10 +18,9 @@ var list = [];
 var valid = true;
 var has_more = true;
 
-while(has_more == true){
-    page += 1; //to get next page
-    setTimeout(function(){console.log("waiting 1 minute to send next batch request...", 60000)}); //to not get IP blocked by Stackexchange API
 
+    page += 1; //to get next page
+   
     let promise = new Promise (function(resolve, reject){ //calls stackexchange API
         resolve(axios.get(`https://api.stackexchange.com//2.2/search/advanced?page=${page}&pagesize=${pagesize}&fromdate=1104537600&order=desc&min=10&sort=votes&accepted=True&closed=False&tagged=${tagged}&nottagged=${nottagged}&title=how&site=stackoverflow&filter=${searchFilter}&key=${key}`));
     })
@@ -82,4 +81,4 @@ while(has_more == true){
             resolve();
         })
     })
-}
+
