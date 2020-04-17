@@ -1,0 +1,400 @@
+sum ( d * 10 ** i for i , d in enumerate ( var0 [ : : - 1 ] ) )
+r = int ( '' . join ( map ( str , x ) ) )
+datetime . strptime ( '2010-11-13#SPACE#10:33:54.227806' , 'var0' )
+[ ( i , sum ( j ) / len ( j ) ) for i , j in list ( var0 . items ( ) ) ]
+zip ( var0 , var1 )
+[ 'hello{0}' . format ( i ) for i in var1 ]
+re . sub ( '(?<!\\S)((\\S+)(?:\\s+\\2))(?:\\s+\\2)+(?!\\S)' , '\\1' , var0 )
+var0 . div ( var0 . sum ( axis = 1 ) , axis = 0 )
+map ( lambda t : ( t [ 1 ] , t [ 0 ] ) , var0 )
+[ ( t [ 1 ] , t [ 0 ] ) for t in var0 ]
+driver . find_element_by_xpath ( "//p[@id,#SPACE#'one']/following-sibling::p" )
+re . findall ( '\\[[^\\]]*\\]|\\([^\\)]*\\)|"[^"]*"|\\S+' , var1 )
+print ( list ( itertools . combinations ( var0 , 3 ) ) )
+var3 [ [ 'var0' , 'var1' , 'var2' ] ] = var3 . apply ( var4 , axis = 1 )
+soup . find_all ( 'var1' , string = 'var0' )
+var0 . strftime ( 'var1' )
+int ( '' . join ( c for c in var0 if c . isdigit ( ) ) )
+var2 [ 'var1' ] . update ( { 'class' : { 'section' : 5 } } )
+dict ( map ( int , x . split ( ':' ) ) for x in var0 . split ( ',' ) )
+driver . find_element_by_xpath ( "//div[@id='a']//a[@class='click']" )
+np . where ( ( var1 == ( 0 , 1 ) ) . all ( axis = 1 ) )
+SomeModel . objects . filter ( id = id ) . delete ( )
+dict ( var0 )
+dict ( zip ( var0 [ : : 2 ] , var0 [ 1 : : 2 ] ) )
+var0 = 9.8
+re . findall ( '(([0-9]+)([A-Z]))' , '20M10000N80M' )
+re . findall ( '([0-9]+|[A-Z])' , 'var0' )
+re . findall ( '([0-9]+)([A-Z])' , 'var0' )
+re . compile ( '\\w+' ) . findall ( 'var0' )
+datetime . datetime . strptime ( 'var0' , '%H:%M' ) . time ( )
+requests . get ( 'var0' , verify = False )
+var0 [ var0 != 0 ]
+new_dict = { k : v for k , v in zip ( var0 , var1 ) }
+dict ( ( k , v ) for k , v in zip ( var0 , var1 ) )
+dict ( [ ( k , v ) for k , v in zip ( var0 , var1 ) ] )
+m = re . search ( '\\[(\\w+)\\]' , var0 )
+var0 . setsockopt ( SOL_SOCKET , SO_REUSEADDR , 1 )
+var2 = [ ( a + b ) for a , b in zip ( var0 , var1 ) ]
+[ ord ( c ) for c in var0 . decode ( 'hex' ) ]
+print ( sorted ( var0 , key = lambda t : ( - t [ 2 ] , t [ 0 ] ) ) )
+[ y for x in range ( 3 ) for y in [ x , x ] ]
+var1 = open ( 'var0' ) . read ( )
+var0 [ : ] = [ ( x / var1 ) for x in var0 ]
+"Name:#SPACE#{0[person.name]}" . format ( { 'person.name' : 'Joe' } )
+var0 . replace ( '#SPACE#' , 'var1' , regex = True )
+datetime . datetime . combine ( var0 , datetime . time . min )
+var1 = str ( var0 )
+time . ctime ( os . path . getmtime ( var0 ) )
+time . ctime ( os . path . getctime ( var0 ) )
+t = os . path . getmtime ( var0 )
+os . var0 . getmtime ( var0 )
+print ( 'last#SPACE#modified:#SPACE#%s' % time . ctime ( os . path . getmtime ( var0 ) ) )
+print ( 'created:#SPACE#%s' % time . ctime ( os . path . getctime ( var0 ) ) )
+return os . path . getctime ( var0 )
+var0ovar0svar0 . var0svar0yvar0svar0tvar0evar0mvar0 ( var0 'var0Tvar0Avar0Svar0Kvar0Kvar0Ivar0Lvar0Lvar0#SPACE#var0/var0Fvar0#SPACE#var0/var0Ivar0Mvar0#SPACE#var0fvar0ivar0rvar0evar0fvar0ovar0xvar0.var0evar0xvar0evar0' var0 ) var0 #NEWLINE# var0
+return ( x . group ( 0 ) for x in re . finditer ( "[A-Za-z']+" , var0 ) )
+",#SPACE#" . join ( [ 'var2' ] * len ( var0 ) )
+print ( re . match ( '(\\d+(\\.\\d+)?)' , 'var1' ) . group ( 1 ) )
+var2 [ 'var1' ] . str . replace ( '\\(.*\\)' , 'var0' )
+var0 = [ x for x in var1 if x [ 0 ] in var2 ]
+print ( [ '' . join ( a ) for a in combinations ( var0 , 2 ) ] )
+[ x for x in var0 if 'var1' in x [ 2 ] ]
+var0 . sort ( key = lambda x : x [ 3 ] )
+logging . info ( 'var0' )
+fig . add_subplot ( 1 , 1 , 1 )
+sorted ( list ( var0 . items ( ) ) , key = operator . itemgetter ( 1 ) )
+sorted ( var0 , key = var0 . get )
+sorted ( var0 , key = var0 . get , reverse = True )
+sorted ( list ( var0 . items ( ) ) , key = lambda x : x [ 1 ] )
+np . einsum ( 'ijk,ikl->ijl' , var0 , var1 )
+print ( 'I#SPACE#have:#SPACE#{0.price}' . format ( var0 ) )
+var1 . write ( '##SPACE#Data#SPACE#for#SPACE#Class#SPACE#A\n' )
+var0 = var0 [ - 1 : ] + var0 [ : - 1 ]
+var0 . strftime ( 'var1' )
+var0 . replace ( '\r\n' , '\n' ) . replace ( '\r' , '\n' )
+os . path . expanduser ( '~user' )
+T = [ var0 [ i ] for i in var1 ]
+var0 = open ( 'var1' ) . read ( ) . split ( )
+[ [ sum ( [ x [ 1 ] for x in i ] ) ] for i in var0 ]
+[ sum ( [ x [ 1 ] for x in i ] ) for i in data ]
+Article . objects . annotate ( like_count = Count ( 'var1' ) ) . order_by ( '-like_count' )
+today = datetime . datetime . utcnow ( ) . date ( )
+[ ( a * b ) for a , b in zip ( var0 , var1 ) ]
+re . findall ( '(?::|;|=)(?:-)?(?:\\)|\\(|D|P)' , var1 )
+re . match ( 'var0' , var1 )
+var1 = json . dumps ( [ ob . __dict__ for ob in var0 ] )
+var0 = [ 0 ] * var1
+var0 . decode ( 'utf-8' , 'ignore' )
+re . findall ( 'var0' , 'var1' )
+var1 . setdefault ( var0 , [ ] ) . append ( var2 )
+var0 [ np . argmin ( var0 [ : , ( 1 ) ] ) ]
+var0 . update ( var1 )
+[ { k : v for k , v in d . items ( ) if k != 'var0' } for d in var1 ]
+[ dict ( ( k , v ) for k , v in d . items ( ) if k != 'mykey1' ) for d in mylist ]
+numpy . random . random ( ( 3 , 3 ) )
+df [ 'var0' ] = df [ 'var1' ] + df [ 'var2' ]
+[ value for key , value in list ( var0 . items ( ) ) if 'var1' in key . lower ( ) ]
+sys . path . append ( 'var0' )
+re . findall ( '\\d+(?=[^[]+$)' , var0 )
+pickle . load ( open ( 'var0' , 'rb' ) )
+driver . find_element_by_xpath ( 'xpath' ) . click ( )
+var1 . groupby ( level = 'var0' ) . agg ( lambda x : x . index . get_level_values ( 1 ) . nunique ( ) )
+pd . concat ( map ( pd . DataFrame , iter ( var0 . values ( ) ) ) , keys = list ( var0 . keys ( ) ) #NEWLINE# ) . stack ( ) . unstack ( 0 )
+sum ( 1 for i , j in zip ( var0 , var1 ) if i != j )
+var0 = { ( a . lower ( ) , b ) : v for ( a , b ) , v in list ( var0 . items ( ) ) }
+var0 . sort ( key = lambda x : [ x [ 0 ] , len ( x [ 1 ] ) , x [ 1 ] ] )
+var0 . strip ( )
+var0 = var0 . lstrip ( )
+var0 = var0 . rstrip ( )
+var1 = var1 . strip ( '#SPACE#\t\n\r' )
+print ( re . sub ( '[\\s+]' , '' , var0 ) )
+Task . objects . exclude ( prerequisites__status__in = [ 'var1' , 'var2' , 'var3' ] )
+root . configure ( background = 'black' )
+numpy . array ( [ ( key , val ) for key , val in var0 . items ( ) ] , dtype )
+pd . concat ( [ var0 , var1 . sort_values ( 'var2' ) ] )
+re . sub ( '(.*)</div>' , '\\1</bad>' , var2 )
+print ( max ( d , key = lambda x : ( d [ x ] [ 'var0' ] , d [ x ] [ 'var1' ] ) ) )
+Book . objects . filter ( var0__id = var1 ) . filter ( var0__id = var2 )
+re . compile ( 'var1' , re . IGNORECASE ) . split ( 'var0' )
+[ sum ( map ( int , s ) ) for s in var0 . split ( ) ]
+[ i for i in var0 if var0 [ i ] == 1 ]
+var0 . decode ( 'unicode_escape' )
+pd . melt ( var2 , id_vars = [ 'farm' , 'fruit' ] , var_name = 'var0' , value_name = 'var1' )
+default_data [ 'var0' ] = 3
+default_data . update ( { 'var0' : 3 } )
+var2 . update ( { 'var0' : 4 , 'var1' : 5 } )
+var0 [ : 3 ] + var0 [ - 3 : ]
+var0 = var0 . reset_index ( drop = True )
+[ a [ var0 ] . append ( var1 [ var0 ] ) for var0 in range ( 3 ) ]
+os . var0 . realpath ( var0 )
+set ( var0 ) . issubset ( set ( var1 ) )
+zip ( * np . where ( a == 1 ) )
+np . where ( a == 1 )
+var0 . columns = var0 . columns . get_level_values ( 0 )
+x = scipy . matrix ( var0 ) . transpose ( )
+var2 = re . sub ( '(\\bget\\b)' , '\\1@' , var2 )
+np . array ( [ np . arange ( 3 ) , np . arange ( 2 , - 1 , - 1 ) , np . ones ( ( 3 , ) ) ] ) . min ( axis = 0 )
+var1 [ 'var0' ] = list ( range ( 1 , len ( var1 ) + 1 ) )
+os . environ [ 'var0' ] = '1'
+print ( os . environ [ 'var0' ] )
+os . environ [ 'var0' ] = 'var1'
+var0 . update ( var1 )
+var1 [ 'var0' ]
+var0 = plt . errorbar ( x , var2 , yerr = err , ecolor = 'var2' )
+results += [ each for each in os . listdir ( var1 ) if each . endswith ( 'var0' ) ]
+print ( 'Â£' . decode ( 'utf8' ) + 'var0' )
+re . sub ( 'var0' , '-\\1' , var1 ) . lower ( )
+os . system ( 'ulimit#SPACE#-s#SPACE#unlimited;#SPACE#some_executable' )
+"{0:.3g}" . format ( var0 )
+numpy . append ( var0 , var0 [ 0 ] )
+var0 . ix [ : , ( var0 . loc [ 0 ] == 38.15 ) ] . columns
+var1 [ 'var2' ] = var1 . CET . map ( var0 . set_index ( 'var3' ) [ 'var2' ] )
+var1 = json . loads ( var0 )
+math . cos ( math . radians ( 1 ) )
+sum ( isinstance ( x , int ) for x in var0 )
+"used<200b>" . replace ( '\u200b' , 'var1' )
+threading . Thread ( target = var0 ) . start ( )
+sum ( i * i for i in var0 )
+sum ( map ( lambda x : x * x , var0 ) )
+var0 = dict ( ( key , value ) for key , value in var1 )
+var0 = { key : value for key , value in var1 }
+var0 = { k : v for k , v in var1 }
+var0 . round ( { 'var1' : 2 , 'var2' : 3 } )
+var1 . setopt ( pycurl . var0 , lambda x : None )
+print ( random . choice ( var0 ) )
+max ( var1 , key = lambda x : var1 [ x ] [ 'var0' ] )
+[ ( int ( x ) if x else 0 ) for x in var0 . split ( ',' ) ]
+"var1" . join ( x or '0' for x in var0 . split ( 'var1' ) )
+re . compile ( '$^' )
+re . compile ( '.\\A|.\\A*|.\\A+' )
+re . compile ( 'a^' )
+var0 . columns [ var0 . max ( ) > 0 ]
+var0 . date ( ) == datetime . today ( ) . date ( )
+print ( '\x1b[1m' + 'var0' )
+re . sub ( '.{20}(.mkv)' , '\\1' , 'var1' )
+var0
+"#SPACE#" . join ( var0 . split ( ) )
+print ( '{:.100f}' . format ( 2.345e-67 ) )
+var0' in var1
+var0' in var1
+var0' in var1
+if 'var0' in var1 : #NEWLINE# #INDENT# pass
+if var0 in var1 : #NEWLINE# #INDENT# pass
+Blog . objects . filter ( pk__in = [ var0 ] )
+f = open ( 'var0' , 'rb' )
+format ( 12345678.46 , 'var2' ) . replace ( 'var2' , 'var0' ) . replace ( 'var1' , 'var2' )
+pd . merge ( var0 , var1 , left_on = 'var2' , right_on = 'var3' )
+np . isnan ( var0 ) . sum ( ) / np . prod ( var0 . shape )
+sorted ( iter ( var0 . items ( ) ) , key = lambda k_v : k_v [ 1 ] [ 2 ] , reverse = True )
+sorted ( list ( var0 . items ( ) ) , key = lambda v : v [ 1 ] )
+sorted ( list ( var0 . items ( ) ) , key = lambda k_v : k_v [ 1 ] , reverse = True )
+sorted ( list ( var0 . items ( ) ) , key = lambda k_v : k_v [ 1 ] )
+f = open ( os . path . join ( __location__ , 'var0' ) )
+f = open ( 'var0' , 'var1' )
+{ k : ( float ( var1 [ k ] ) / var0 [ k ] ) for k in var1 }
+{ var0 : ( var1 [ var0 ] / var2 [ var0 ] ) for var0 in list ( var2 . keys ( ) ) & var1 }
+dict ( ( k , float ( var1 [ k ] ) / var0 [ k ] ) for k in var1 )
+var0 . to_csv ( var1 , date_format = 'var2' )
+var1 . pop ( 'var0' , None )
+b = np . where ( np . isnan ( var0 ) , 0 , var0 )
+subprocess . call ( 'var0' , shell = True )
+subprocess . call ( 'var0' , shell = True )
+var0 = urllib . request . urlopen ( url , urllib . parse . unquote ( urllib . parse . #NEWLINE# urlencode ( params ) ) )
+"var0" . rstrip ( )
+urllib . parse . quote ( var0 . encode ( 'utf-8' ) )
+urllib . parse . quote_plus ( 'a#SPACE#b' )
+np . array ( map ( int , 'var0' ) )
+print ( np . array ( list ( var0 ) , dtype = int ) )
+var1 = cv2 . imread ( 'var0' , 0 )
+var0 . sort ( key = lambda x : x [ 2 ] , reverse = True )
+indices = [ i for i , x in enumerate ( my_list ) if x == 'whatever' ]
+subprocess . call ( 'var0' , shell = True )
+len ( var0 ) - len ( var0 . rstrip ( '?' ) )
+var1 [ var1 . columns [ 1 : ] ] . replace ( '[\\$,]' , '' , regex = True ) . astype ( float )
+var2 . merge ( var1 , how = 'left' , on = 'var0' )
+print ( '' . join ( '' . join ( i ) for i in zip ( a2 , a1 ) ) + var0 [ - 1 ] if len ( var0 ) % 2 else #NEWLINE# '' )
+var0 . attributes ( '-topmost' , True )
+var0 . lift ( )
+hex ( int ( '' . join ( [ str ( int ( b ) ) for b in var0 ] ) , 2 ) )
+hex ( sum ( b << i for i , b in enumerate ( reversed ( var0 ) ) ) )
+print ( ( 'var0' , var1 , 'var2' , var3 ) )
+print ( 'Total#SPACE#score#SPACE#for#SPACE#{}#SPACE#is#SPACE#{}' . format ( var0 , var1 ) )
+print ( 'Total#SPACE#score#SPACE#for#SPACE#%s#SPACE#is#SPACE#%s#SPACE##SPACE#' % ( var0 , var1 ) )
+print ( ( 'Total#SPACE#score#SPACE#for' , var0 , 'is' , var1 ) )
+url ( '^$' , TemplateView . as_view ( template_name = 'var0' ) )
+var1 [ var1 [ 'A' ] . isin ( [ 3 , 6 ] ) ]
+instance . __class__ . __name__
+system ( 'var1/bin/python#SPACE#var0' )
+var1 . objects . values_list ( 'var0' , flat = True )
+re . findall ( '\\d|\\d,\\d\\)' , 'var0' )
+input ( 'var0' )
+"^Avar0" . encode ( 'hex' )
+db . Doc . update ( { '_id' : var1 [ '_id' ] } , { '$set' : { 'var0' : myGeolocCountry } } )
+re . sub ( 'l+' , 'l' , 'var0lll' )
+rows = var1 . findAll ( 'var0' ) [ 4 : : 5 ]
+plt . gca ( ) . invert_xaxis ( )
+plt . gca ( ) . invert_yaxis ( )
+pd . concat ( [ GOOG , AAPL ] , keys = [ 'GOOG' , 'AAPL' ] , axis = 1 )
+return HttpResponse ( json . dumps ( var0 ) , content_type = 'application/json' )
+var0 . decode ( 'string_escape' )
+hashlib . md5 ( open ( 'var0' , 'rb' ) . read ( ) ) . hexdigest ( )
+[ k for k , v in var0 . items ( ) if v == var1 ]
+{ k for d in var0 for k in list ( d . keys ( ) ) }
+set ( [ i for s in [ list ( d . keys ( ) ) for d in var0 ] for i in s ] )
+[ i for s in [ list ( d . keys ( ) ) for d in var0 ] for i in s ]
+keys , values = zip ( * list ( var0 . items ( ) ) )
+int ( Decimal ( var0 ) )
+int ( s . split ( '.' ) [ 0 ] )
+numpy . in1d ( var0 , var1 ) . all ( )
+numpy . array ( [ ( x in var0 ) for x in var1 ] )
+networkx . draw_networkx_labels ( G , var2 , var0 )
+var0 = [ row [ : ] for row in var1 ]
+X = numpy . loadtxt ( 'var0' , delimiter = ',' )
+matching = [ s for s in var0 if 'var1' in s ]
+var0 . to_csv ( 'var1' , sep = '\t' )
+random . sample ( list ( range ( 100 ) ) , 10 )
+var0 . rsplit ( ',' , 1 )
+all ( isinstance ( x , int ) for x in var0 )
+all ( isinstance ( x , var1 ) for x in var0 )
+var0 . strip ( )
+driver . execute_script ( 'window.scrollTo(0,#SPACE#Y)' )
+driver . execute_script ( 'window.scrollTo(0,#SPACE#document.body.scrollHeight);' )
+datetime . datetime . combine ( var0 , datetime . time ( ) )
+print ( any ( x in var1 for x in var0 ) )
+scipy . misc . imsave ( 'var1' , var0 )
+var0 = re . sub ( '#SPACE#?\\([^)]+\\)' , '' , var0 )
+var0 = re . sub ( '#SPACE#?\\(\\w+\\)' , '' , var0 )
+var0 = re . sub ( '#SPACE#\\(\\w+\\)' , '' , var0 )
+len ( set ( var0 ) . intersection ( var1 ) ) > 0
+i = int ( var0 , 16 )
+int ( 'var0' , 16 )
+int ( 'var0' , 16 )
+ast . literal_eval ( 'var0' )
+int ( 'var0' , 16 )
+os . system ( 'screencapture#SPACE#var0' )
+driver . set_window_size ( var0 )
+unicodedata . normalize ( 'NFKD' , 'música' ) . encode ( 'ascii' , 'ignore' )
+pandas . concat ( [ var0 , var1 ] ) . drop_duplicates ( ) . reset_index ( drop = True )
+var0 = numpy . fromfile ( 'var1' , dtype = numpy . float32 )
+subprocess . call ( 'var0' , shell = True )
+subprocess . call ( 'mv#SPACE#/home/somedir/subdir/*#SPACE#somedir/' , shell = True )
+print ( '▲' . encode ( 'utf-8' ) )
+difflib . SequenceMatcher ( None , var0 . read ( ) , var1 . read ( ) )
+dict ( ( k , int ( v ) ) for k , v in ( var0 . split ( '#SPACE#-#SPACE#' ) for var0 in s . split ( 'var2' ) ) )
+all ( i in var1 for i in var0 )
+var1 [ 'var0' ] . map ( lambda t : t . date ( ) ) . unique ( )
+"{:>7s}" . format ( var0 )
+open ( 'var0' , 'rb' ) . read ( 200 )
+var0 . sort_values ( [ 'var1' , 'var2' ] , ascending = [ True , False ] , inplace = True )
+var0 . sort_values ( [ 'var1' , 'var2' ] , ascending = [ True , False ] )
+df1 . sort ( [ 'var0' , 'var1' ] , ascending = [ True , False ] , inplace = True )
+df . sort ( [ 'var0' , 'var1' ] , ascending = [ True , False ] )
+redirect ( 'var0' )
+[ x for x in var1 if x not in [ 2 , 3 , 7 ] ]
+out = '' . join ( c for c in var3 if c not in ( 'var0' , 'var1' , 'var2' ) )
+var4 . find ( 'var3' , { 'var1' : 'var2' } ) [ 'var0' ]
+urllib . parse . unquote ( 'var0' )
+urllib . parse . unquote ( var0 ) . decode ( 'utf8' )
+del var0 [ : ]
+del var01 [ : ]
+var0 [ : ] = [ ]
+var0 [ : ] = [ ]
+var0 . reset_index ( 0 ) . reset_index ( drop = True )
+var0 [ 0 ] . getText ( ) . encode ( 'var1' )
+[ ( y - x ) for x , y in zip ( var0 , var0 [ 1 : ] ) ]
+print ( re . search ( '\\bLOG_ADDR\\s+(\\S+)' , var0 ) . group ( 1 ) )
+globals ( ) . update ( importlib . import_module ( 'var0' ) . __dict__ )
+"" . join ( var0 )
+var0 . split ( 'var1' )
+od = collections . OrderedDict ( sorted ( var0 . items ( ) ) )
+OrderedDict ( sorted ( list ( var0 . items ( ) ) , key = lambda t : t [ 0 ] ) )
+response = requests . put ( var0 , data = json . dumps ( data ) , headers = headers )
+re . sub ( '[\\W_]+' , 'var0' , var1 )
+[ ( x + y ) for x in var0 for y in var1 ]
+dict ( [ x . split ( '=' ) for x in s . split ( ) ] )
+var0 . pop ( 2 )
+var1 = var1 . replace ( 'var0' , '' )
+newstr = oldstr . replace ( 'M' , '' )
+sum ( x * y for x , y in zip ( var0 , var1 ) )
+list ( x * y for x , y in list ( zip ( var0 , var1 ) ) )
+sum ( i * j for i , j in zip ( var0 , var1 ) )
+sum ( x * y for x , y in list ( zip ( var0 , var1 ) ) )
+var1 . write ( open ( 'var0' , 'rb' ) . read ( ) )
+new_list = [ ( x + 1 ) for x in var0 ]
+[ x for x in var0 if x >= 5 ]
+plt . plot ( list ( range ( 10 ) ) , 'var0' )
+plt . plot ( list ( range ( 10 ) ) , linestyle = '--' , marker = 'o' , color = 'b' )
+[ i . split ( '\t' , 1 ) [ 0 ] for i in var0 ]
+var0 = [ i . split ( '\t' ) [ 0 ] for i in var0 ]
+sum ( var0 )
+var0 ( ) . set_trace ( )
+result = { k : var1 . get ( v ) for k , v in list ( var0 . items ( ) ) }
+datetime . datetime . now ( ) + datetime . timedelta ( days = 1 , hours = 3 )
+[ int ( s [ i : i + 3 ] , 2 ) for i in range ( 0 , len ( s ) , 3 ) ]
+dict ( ( v , k ) for k , v in var0 . items ( ) )
+print ( sorted ( var0 , key = lambda x : int ( x . split ( 'var1' ) [ 2 ] ) ) )
+any ( d [ 'var0' ] == 'var1' for d in var2 )
+var0 [ : ] = [ x for x in var0 if x != [ 1 , 1 ] ]
+[ x for x in var1 if x != [ 1 , 1 ] ]
+b = { var0 [ i ] : var0 [ i + 1 ] for i in range ( 0 , len ( var0 ) , 2 ) }
+len ( set ( var0 ) ) == len ( var0 )
+print ( hashlib . md5 ( open ( var0 , 'rb' ) . read ( ) ) . hexdigest ( ) )
+sorted ( list ( data . items ( ) ) , key = lambda x : x [ 1 ] [ 0 ] )
+"" . join ( x . upper ( ) if random . randint ( 0 , 1 ) else x for x in var0 )
+os . system ( 'GREPDB="echo#SPACE#123";#SPACE#var0#SPACE#-c#SPACE#"$GREPDB"' )
+os . system ( '/bin/bash#SPACE#-c#SPACE#"var0"' )
+getattr ( var1 , var0 )
+Image . open ( 'var0' ) . show ( )
+"var0" . replace ( "'" , 'var1' )
+var0 . sort ( key = var1 )
+var0 . replace ( '#SPACE#' , '' )
+pattern = re . compile ( '\\s+' ) #NEWLINE# var0 = re . sub ( pattern , '' , var0 )
+var0 . strip ( )
+var0 = re . sub ( '\\s+' , '' , var0 , flags = re . UNICODE )
+var0 = '' . join ( var0 . split ( ) )
+sum ( var0 . values ( ) )
+np . sqrt ( ( ( var0 - var1 ) ** 2 ) . sum ( - 1 ) )
+var0 = [ { } , { } , { } ]
+weekly = [ sum ( visitors [ x : x + 7 ] ) for x in range ( 0 , len ( var0 ) , 7 ) ]
+del var1 [ var0 ]
+{ i : var0 [ i ] for i in var0 if i != 0 }
+var1 . pop ( 'var0' )
+del var1 [ var0 ]
+np . linalg . solve ( np . dot ( var0 . T , var0 ) , np . dot ( var0 . T , var1 ) )
+pd . concat ( [ var1 . drop ( 'var0' , axis = 1 ) , pd . DataFrame ( var1 [ 'var0' ] . tolist ( ) ) ] , #NEWLINE# axis = 1 )
+for i in range ( 0 , 10 , 2 ) : #NEWLINE# #INDENT# pass
+for i in var0 [ : : 2 ] : #NEWLINE# #INDENT# pass
+[ { 'var0' : x [ 'var0' ] . lower ( ) } for x in var1 ]
+"#SPACE#" . join ( var0 )
+re . sub ( '(http://\\S+|\\S*[^\\w\\s]\\S*)' , 'var2' , var1 )
+var0 ( n ) == var0 ( n ) [ : : - 1 ]
+ftp . storbinary ( 'STOR#SPACE#myfile.txt' , open ( 'var0' , 'rb' ) )
+re . sub ( '.*I' , 'var1' , var0 )
+int ( 'var0' . replace ( ',' , '' ) )
+pd . merge ( var0 , var1 , left_index = True , right_index = True , how = 'outer' )
+pandas . concat ( [ df1 , df2 ] , axis = 1 )
+all ( var0 . values ( ) )
+var2 . var1 . str . replace ( 'var0' , '' )
+var0 [ : : - 1 ]
+reversed ( var0 )
+var0 . reverse ( )
+list ( reversed ( var0 ) )
+[ tup [ 0 ] for tup in var0 ]
+newcontents = var4 . replace ( 'var0' , 'var1' ) . replace ( 'var2' , 'var3' )
+json . dumps ( [ dict ( list ( var0 . items ( ) ) ) for var0 in rs ] )
+config_file = os . path . expanduser ( 'var0' )
+request . params . getall ( 'c' )
+np . corrcoef ( var0 )
+print ( maxvar0 )
+self . request . get ( 'var0' )
+var1 [ 'var0' ] . apply ( lambda var0 , y : var0 + y , args = ( 100 , ) )
+var0 . objects . order_by ( '-pet__age' ) [ : 10 ]
+time . sleep ( var0 )
+time . sleep ( 60 )
+sleep ( 0.1 )
+time . sleep ( 60 )
+time . sleep ( 0.1 )
+[ x for x in var0 if not any ( c . isdigit ( ) for c in x ) ]
+var1 [ 'var0' ] . apply ( lambda x : x [ len ( x ) / 2 - 1 : len ( x ) / 2 + 1 ] )
+var0 . grid ( True )
