@@ -1,0 +1,400 @@
+concatenate elements of list var0 of multiple integers to single integer
+convert list of integers into single integer
+convert datetime string back to datetime object of format var0
+get average of list values for each key in dict var0
+zip two lists var0 and var1 into list of two tuples containing elements at same index in each list
+prepend string var0 to all items in list var1
+regex for repeating words in string var0
+normalize pandas dataframe var0 by row
+swap values in tuplelist inside list var0
+swap values in tuplelist in list var0
+find next sibling element selenium
+find all occurrences of pattern var0 within var1
+generate combinations of 3 from set var0
+add multiple columns var0 var1 var2 to pandas data frame var3 from lambda function var4
+beautifulsoup search string var0 inside tag var1
+convert datetime object var0 into readable format var1
+parse string var0 to int when string contains number
+add dict var0 to key var1 of dict var2
+transforming string var0 into dict
+select element with selenium xpath
+find rows matching var0 in 2 dimensional numpy array var1
+delete record in django models
+build dict containing conversion of each list in list var0 to keyvalue pair as its items
+convert list var0 to dict having each two adjacent elements as keyvalue pair
+assign float 98 to variable var0
+separate numbers from characters in string var0
+separate numbers and characters in string var0
+separate numbers and characters in string var0
+get list of words from string var0 removing punctuation
+convert string var0 into datetimetime object
+request url var0 without verifying ssl certificates
+extract values not equal to 0 from numpy array var0
+map two lists var0 and var1 into dict
+map two lists var0 and var1 into dict
+map two lists var0 and var1 into dict
+find string matches within parenthesis from string var0 using regex
+enable soreuseaddr socket option in socket object var0 to fix error var1
+append sum of each tuple pair in grouped list var0 and list var1 elements to list var2
+converting hex string var0 to its integer representations
+sort list var0 by second element of each tuple in ascending and third element of each tuple in descending
+get list of duplicated elements in range of 3
+read contents of file var0 into var1
+divide each element in list var0 by integer var1
+dots in name of variable in format string
+replace white spaces in dataframe var0 with var1
+convert date var0 to datetime
+convert tuple var0 to string var1
+get modified time of file var0
+get creation time of file var0
+get modification time of file var0
+get modification time of file var0
+get modified time of file var0
+get creation time of file var0
+get creation time of file var0
+execute os command var0taskkill f im firefoxexevar0
+split string var0 on whitespaces using generator
+unpack each value in list var0 to its placeholder var1 in string var2
+match regex pattern var0 with string var1
+replace parentheses and all data within it with empty string var0 in column var1 of dataframe var2
+create list var0 containing elements form list var1 if first element of list var1 is in list var2
+generate all possible string permutations of each two elements in list var0
+get list of items form nested list var0 where third element of each item contains string var1
+sort lists in list var0 by element at index 3 of each list
+log message var0 on root logger
+return subplot axes positioned by grid definition var0 using matpotlib
+sort dict var0 by value in ascending order
+sort dict var0 by value in ascending order
+sort dict var0 by value in descending order
+sort dict var0 by value in ascending order
+elementwise product of 3d arrays var0 and var1
+print string var0 with string formatting
+write comment var0 to file object var1
+move last item in list var0 to beginning
+parse datetime object var0 using format var1
+normalize line ends in string var0
+find real user home directory using
+index list var0 with another list var1
+get list of words var0 of file var1
+get list of lists with summing values of second element from each list of lists var0
+summing second item in list of lists of lists
+sort objects in var0 in descending order of counts of var1
+return datetime object with current utc date
+create list containing multiplication of each elements at same index of list var0 and list var1
+fetch smilies matching regex pattern var0 in string var1
+match pattern var0 to string var1
+convert list of objects var0 to json string var1
+create list var0 of var1 zeros
+decode string var0 to utf8
+match regex pattern var0 on string var1
+create key var0 if it does not exist in dict var1 and append element var2 to value
+get value of minimum element in second column of array var0
+extend dict var0 with keyvalue pairs of dict var1
+removing key values pairs with key var0 from list of dictionaries var1
+removing key values pairs from list of dictionaries
+create 3 by 3 matrix of random numbers
+make new column var0 in panda dataframe by adding values from other columns var1 and var2
+create list of values from dict var0 that have key with case insensitive match to var1
+append path var0 in system path
+get all digits in string var0 after var1 character
+pickleunpickle list tofrom file var0
+clicking link using selenium using
+count unique index values in column var0 in pandas dataframe var1
+create pandas dataframe of values from dict var0 which contains dictionaries of dictionaries
+find out number of nonmatched elements at same index of list var0 and list var1
+make all keys lowercase in dict var0
+sort list var0 based on first element of each tuple and by length of second element of each tuple
+trim whitespace in string var0
+trim whitespace including tabs in var0 on left side
+trim whitespace including tabs in var0 on right side
+trim characters var0 in var1
+trim whitespaces including tabs in string var0
+in django filter var0 based on all entities in var1 var2 var3
+change background color in tkinter
+convert dict var0 to numpy structured array
+concatenate dataframe var0 to dataframe var1 sorted by values of column var2
+replace last occurence of expression var0 with var1 in string var2
+get maximum of var0 and var1 values in dict
+filter django objects by var0 with ids var1 and var2
+split string var0 based on caseinsensitive matching using string var1
+get list of sums of neighboring integers in string var0
+get all keys from dict var0 whose value is var1
+converting byte string var0 in unicode string
+unpivot first 2 columns into new columns var0 and var1 from pandas dataframe var2
+add key var0 and value var1 to dict var2
+add key var0 and value var1 to dict var2
+add key value pairs var0 4 and var1 5 to dict var2
+get first and last 3 elements of list var0
+reset index to default in dataframe var0
+for each index var0 from 0 to 3 append element at index var0 of list var1 to list at index var0 of list a
+get onical path of filename var0
+check if dict var0 is in dict var1
+find all indexes in numpy 2d array where value is 1
+find index of value in 2d array
+collapse hierarchical column index to level 0 in dataframe var0
+create matrix from list var0
+add character var0 after word var1 in string var2
+get numpy array that contains element wise minimum of three 3x1 arrays
+add column var0 to dataframe var1 for index in range
+set environment variable var0 equal to 1
+get environment variable var0
+set environment variable var0 to var1
+update dict var0 overwriting values where keys are identical with contents of dict var1
+get all values in column var0 from pandas data frame var1
+make line plot with errorbars var0 from data var1 and set color of errorbars to var2 yellow
+find all files with extension var0 in directory var1
+add unicode string var0 to utf8 decoded string var1
+lowercase string obtained by replacing occurrences of regex pattern var0 in string var1 with eplacement var2
+setting stacksize in script
+format string var0 using string formatting
+append first element of array var0 to array var0
+return column for value 3815 in dataframe var0
+merge 2 dataframes var0 and var1 with same values in column var2 with and index var3
+load json data var0 into variable var1
+convert radians 1 to degrees
+count number of integers in list var0
+replacing var0 with var1 in string using regular expressions
+run function var0 simultaneously
+sum of squares values in list var0
+calculate sum of squares of each value in list var0
+create dict var0 from list var1
+create dict var0 from list var1
+create dict var0 from list of key value pairs var1
+round off entries in dataframe var0 column var1 to two decimal places and entries in column var2 to three decimal places
+make function var0 output nothing in curl var1
+return random word from word list var0
+find max value of key var0 in nested dict var1
+get list of string elements in string var0 delimited by commas putting var1 in place of empty strings
+split string var0 into list of strings based on var1 then replace empty strings with zero
+regular expression match nothing
+regular expression syntax for not to match anything
+create regular expression object with pattern that will match nothing
+drop all columns in dataframe var0 that holds maximum value bigger than 0
+check if date var0 is equal to todays date
+print bold text var0
+remove 20 symbols in front of var0 in string var1
+define list with string values var0
+substitute multiple whitespace with single whitespace in string var0
+print floating point number 2345e67 without any truncation
+check if key var0 in var1
+check if key var0 in var1
+check if key var0 in var1
+check if given key var0 exists in dict var1
+check if given key var0 exists in dict var1
+create django query for list of values var0
+read binary file var0
+insert var0 between every three digit before var1 and replace var2 with var1 in 1234567846
+join pandas data frame var0 and var1 with left join by var2 and right join by var3
+calculate ratio of sparsity in numpy array var0
+reverse sort items in default dict var0 by third item in each keys list of values
+sort dict var0 in ascending order based on second elements of its values
+reverse sort dict var0 based on its values
+sorting defaultdict var0 by value
+open file var0 in same directory as script
+open file var0 in var1 mode
+divide values with same keys of two dict var0 and var1
+divide value for each key var0 in dict var1 by value for same key var0 in dict var2
+divide values associated with each key in dict var0 from values associated with same key in dict var1
+write dataframe var0 to csv file var1 with dates formatted as yearmonthday var2
+remove key var0 from dict var1
+replace nan values in array var0 with zeros
+subprocess run command var0 through shell
+run command var0 on command line tools as separate processes
+replace percentencoded code in request var0 to their singlecharacter equivalent
+remove white spaces from end of string var0
+replace special characters in utf8 encoded string var0 using xx escape
+url encoding
+create array containing conversion of string var0 into separate elements
+convert string var0 to numpy array of integer values
+convert rgb image var0 into grayscale var1
+sort list var0 in descending order based on second item of each tuple in it
+find all occurrences of element in list
+execute shell command var0 with pipe in it
+count number of trailing question marks in string var0
+remove dollar sign var0 from second to last column data in dataframe var1 and convert data into floats
+merge column var0 in dataframe var1 with column var0 on dataframe var2
+switch positions of each two adjacent characters in string var0
+make window var0 jump to front
+make window var0 jump to front
+convert list of booleans var0 into hex string
+convert sum of list var0 into hex presentation
+print string var0 value of variable var1 string var2 and value of variable var3 in one print call
+print multiple arguments var0 and var1
+print string using multiple strings var0 and var1
+print string including multiple variables var0 and var1
+serve static html page var0 at root of django project
+use list of values var0 to select rows from pandas dataframe var1var2a
+get concrete class name as string
+execute code var0 in virtualenv var1 from matlab
+django return queryset list containing values of field var0 in model var1
+find all digits in string var0 and put them to list
+prompt string var0 to console
+print string var0 as hex literal
+insert new field var0 on existing document var1 using pymongo
+write regex statement to match var0 to var1
+beautifulsoup find all var0 elements in html string var1 at five stride starting from fourth element
+reverse all xaxis points in pyplot
+reverse yaxis in pyplot
+stack two dataframes next to each other in pandas
+create json response var0
+decode escape sequences in string var0
+calculate md5 checksum of file named var0
+find all keys from dict var0 whose values are var1
+create set containing all keys names from dict var0
+create set containing all keys names from list of dictionaries var0
+extract all keys from list of dictionaries var0
+unpack keys and values of dict var0 into two lists
+convert string var0 containing decimal to integer
+convert string to integer with decimal
+check if array var0 contains all elements of array var1
+numpy check if array var0 contains all numbers in array var1
+draw node labels var0 on networkx graph var1 at position var2
+make rowbyrow copy var0 of array var1
+create 2d numpy array from data provided in var0 with each row in file having same number of values
+get list of items from list var0 that contain string var1
+export pandas data frame var0 to file var1 and retain indices
+create list of unique random numbers
+split string var0 on last delimiter
+check if all elements in list var0 are tupples of long and int
+check if all elements in list var0 are same type var1
+strip string var0 of all carriage returns and newlines
+scroll to bottom of web page using selenium webdriver
+scroll to bottom of web page using selenium webdriver
+convert date object var0 into datetime object
+check if any item from list var0 is in list var1
+save numpy array var0 as image var1
+remove anything in parenthesis from string var0 with regex
+remove word characters in parenthesis from string var0 with regex
+remove all data inside parenthesis in string var0
+check if any elements in one list var0 are in another list var1
+convert hex string var0 to decimal
+convert hex string var0 to decimal
+convert hex string var0 to decimal
+convert hex string var0 to decimal
+convert hex string var0 to decimal
+take screenshot var0 on mac os x
+set window size to var0 using selenium webdriver
+replace nonascii chars from unicode string uvar0
+concatenate dataframe var0 with var1 whilst removing duplicates
+construct array with data type float32 var0 from data in binary file var1
+execute mv command var0 in subprocess
+use mv command with subprocess
+print character that has unicode value var0
+compare contents at filehandles var0 and var1 using difflib
+create dict from string var0 separated by var1 and var2
+check if all elements in tuple var0 are in another var1
+extract unique dates from time series var0 in dataframe var1
+right align string var0 with width of 7
+read excel file var0
+sort dataframe var0 based on column var1 in ascending and column var2 in descending
+sort dataframe var0 based on column var1 in ascending and column var2 in descending
+sort pandas data frame with column var0 in ascending and var1 in descending order
+sort pandas data frame by column var0 in ascending and by column var1 in descending order
+django redirect to view var0
+remove all values within one list var0 from another list var1
+remove punctuation var0 var1 var2 from string var3
+beautifulsoup get value associated with attribute var0 where attribute var1 is equal to var2 in tag var3 in html parsed string var4
+unquote urlencoded unicode string var0
+decode url var0 from utf16 code to utf8 code
+empty list var0
+empty list var0
+empty list var0
+empty list var0
+reset index of series var0
+convert unicode text from list var0 with index 0 to normal text var1
+create list containing subtraction of each item in list var0 from item prior to it
+get value in string var0 matched by regex pattern var1
+import all classes from module var0
+convert list of characters var0 into string
+slice var0 with var1 as delimiter to get var2 from url httpwwwdomainnamecompagecontentitemid1234param2param3
+sort dict var0 by key
+sort dict var0 by key
+execute put request to url var0
+replace everything that is not alphabet or digit with var0 in var1
+create list of aggregation of each element from list var0 to all elements of list var1
+convert string var0 using list comprehension
+remove index 2 element from list var0
+delete character var0 from string var1 using
+delete character from string using
+get sum of products of each pair of corresponding elements in lists var0 and var1
+sum products of each two elements at same index of list var0 and list var1
+sum product of each two items at same index of list var0 and list var1
+sum product of elements of two lists named var0 and var1
+write content of file var0 to file var1
+add 1 to each integer value in list var0
+get list of all items in list var0 with values greater than var1
+set color marker styles var0 in matplotlib
+set circle markers on plot for individual points defined in list var0 created by range10
+split strings in list var0 on first occurring tab var1 and enter only first resulting substring in new list
+split each string in list var0 on tab character
+sum numbers in list var0
+attach debugger pdb to class var0
+compose keys from dict var0 with respective values in dict var1
+add one day and three hours to present time from datetimenow
+convert binary string to list of integers using
+switch keys and values in dict var0
+sort list var0 by number after second var1
+check if value of key var0 is var1 in list of dictionaries var2
+remove all instances of 1 1 from list var0
+remove all instances of var0 from list var1
+convert list var0 to dict where each even element represents key to dict and following odd element is value
+check whether elements in list var0 appear only once
+generate md5 checksum of file in path var0 in hashlib
+sort dict by value when value is list and i want to sort it by first index of that list
+randomly switch letters cases in string var0
+force bash interpreter var0 to be used instead of shell
+run command var0 in bash instead of shell
+access class variable var0 from class object var1
+display image file var0
+replace single quote character in string var0 with empty string var1
+sort list var0 based on variable var1
+remove all whitespace in string var0
+remove all whitespace in string var0
+remove whitespace in string var0 from beginning and end
+remove all whitespaces in string var0
+remove all whitespaces in string var0
+sum all values in counter variable var0
+find euclidean distance between two 3d arrays var0 and var1
+create list var0 containing 3 empty dictionaries
+find sums of length 7 subsets of list var0
+delete element var0 from dict var1
+delete element 0 from dict var0
+delete element var0 from dict var1
+delete element with key var0 dict var1
+solve for least squares solution of matrices var0 and var1
+split dictlist inside pandas column var0 into separate columns in dataframe var1
+loop through 0 to 10 with step 2
+loop through var0 with step 2
+lowercase string values with key var0 in list of dictionaries var1
+convert list var0 into string with values separated by spaces
+replace each occurrence of pattern var0 within var1 with var2
+check if string var0 is palindrome
+upload binary file var0 with ftplib
+remove all characters from string var0 upto character var1
+parse commaseparated string number var0 into int
+combine dataframe var0 and dataframe var1 by index number
+combine two pandas dataframes with same index
+check if all boolean values in dict var0 are true
+use regex pattern var0 to remove digit 12 if followed by 4 other digits in column var1 of dataframe var2
+reverse list var0
+reverse list var0
+reverse list var0
+reverse list var0
+get first element of each tuple in list var0
+replace character var0 with character var1 and character var2 with character var3 in file var4
+serialise sqlalchemy rowproxy object var0 to json object
+get file var0
+get multiple parameters with same name from url in pylons
+convert array var0 into correlation matrix
+find greatest number in set var0
+retrieve parameter var0 from get request
+add 100 to each element of column var0 in dataframe var1
+django get first 10 records of model var0 ordered by criteria var1 of model var2
+delay for var0 seconds
+make 60 seconds time delay
+make 01 seconds time delay
+make 60 seconds time delay
+make 01 seconds time delay
+from list of strings var0 remove values that contains numbers
+get middle two characters of string var0 in pandas dataframe var1
+draw grid line on every tick of plot var0
