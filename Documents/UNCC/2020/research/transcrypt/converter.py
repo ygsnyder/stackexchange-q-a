@@ -44,7 +44,8 @@ with open ('./initialPythonIntents.txt','r', encoding='utf-8') as initialIntents
             #
             initialSnippetLine = re.sub('#SPACE#',' ',initialSnippetLine)
             initialSnippetLine = re.sub('#NEWLINE#','\n', initialSnippetLine)
-            initialSnippetLine = re.sub('#INDENT#','    ', initialSnippetLine)
+            initialSnippetLine = re.sub('#INDENT#','    ', initialSnippetLine)       
+
 
             #
             # Removes 'return'  & 'del' for lines beginning with return and del statements
@@ -100,7 +101,7 @@ print('#######################################################')
 #
 with open (os.path.join(os.path.dirname(os.path.abspath(__file__)), '__target__\P2JSnippets.js'), 'r') as infile, open('Output.txt', 'w') as outfile:
     data = infile.read()
-    data = data.replace('\r','').replace('\n','').replace('export ','').split('delimiter;')
+    data = data.replace('\r','').replace('\n','').replace('export ','').replace('// pass;','').split('delimiter;')
 
     data.pop(0)
     print(data[-1])
